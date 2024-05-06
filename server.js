@@ -9,7 +9,7 @@ const HOST = '0.0.0.0';
 // App
 const app = express();
 app.get('/', (req, res) => {
-	res.send('Hello FS2024 DevOps Course! :-))) (((-:');
+	res.send('Hello FS2024 DevOps Course! JaleRaj war hier');
 });
 
 app.listen(PORT, HOST);
